@@ -1,6 +1,8 @@
 whdDocker
 =========
 
+Clone of https://hub.docker.com/r/macadmins/whd/
+
 This is a Dockerized version of [WebHelpDesk](http://www.webhelpdesk.com/).  This is based on the RHEL rpm installed on a CentOS 6 base.
 
 
